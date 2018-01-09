@@ -1,0 +1,7 @@
+{
+  "one": "raz",
+  "two": "swa",
+  "three": {
+    "four": "cztery"
+  }
+}
